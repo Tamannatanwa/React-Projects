@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    /* justify-content: center; */
+    /* align-items:baseline; */
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    flex-direction: column;
+}
+.color{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 60px;
+    margin-top: 50px;
+    flex-direction: column;
+    gap: 20px;
+}
